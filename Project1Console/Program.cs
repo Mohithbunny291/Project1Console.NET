@@ -11,6 +11,8 @@ namespace Project1Console
         static void Main(string[] args)
         {
             Console.WriteLine("Mohith");
+            Console.WriteLine("Hello .NET");
+            Console.ReadLine();
         }
     }
 }
